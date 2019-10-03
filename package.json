@@ -13,7 +13,7 @@
   "devDependencies": {
     "@types/json2csv": "^4.2.0",
     "@types/mocha": "^5.2.5",
-    "@types/node": "^10.9.4",
+    "@types/node": "^12.7.11",
     "@types/power-assert": "^1.5.0",
     "espower-typescript": "^9.0.1",
     "mocha": "^5.2.0",
